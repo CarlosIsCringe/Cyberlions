@@ -6,4 +6,4 @@ Cyberlions is a scholar run club that offers education and learning in the field
 
 ##
 
-<img src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/ABOUT.png" height="100">
+<a href="youtube.com"><img src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/ABOUT.png" height="100"></a>

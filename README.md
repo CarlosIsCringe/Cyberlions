@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/ROBOTICS.png">
+<p align="center"><img src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/ROBOTICS.png"></p>
 
 <h1 align="center">Cyberlions</h1>
 

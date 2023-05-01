@@ -6,6 +6,8 @@
 
 Cyberlions is a scholar led program that offers education in Technology and Robotics. This includes porgramming, documentation and self-leadership. Our goal is to teach young scholars to run this club as a self-sutaining business that can overcome any obstacle they face.
 
+Currently Cyberlions operates using the [C17 Coding Language](https://en.wikipedia.org/wiki/C17_(C_standard_revision)).
+
 ##
 
 <p align="center">

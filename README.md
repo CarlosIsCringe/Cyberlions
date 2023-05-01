@@ -2,6 +2,8 @@
 
 <h1 align="center">Cyberlions</h1>
 
+<a href="#"><img src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/CVERSION.png" height="30"></a>
+
 Cyberlions is a scholar led program that offers education in Technology and Robotics. This includes porgramming, documentation and self-leadership. Our goal is to teach young scholars to run this club as a self-sutaining business that can overcome any obstacle they face.
 
 ##

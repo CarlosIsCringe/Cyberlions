@@ -26,7 +26,7 @@ Currently Cyberlions operates using the [C17 Coding Language](https://en.wikiped
 
 ## Changelog
 
-
+Changes are documented in [Changelog]().
 
 ## Documentation
 

@@ -30,14 +30,9 @@ Changes are documented in the [changelog]().
 
 ## Documentation
 
-- Programming can be found in [trello]().
+- Programming can be found in [development board]().
 - Progression can be found in the [wiki]().
 
 ##
 
 <p align="center">© 2023 Cyberlions - Resources by CarlosIsCringe</p>
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |

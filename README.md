@@ -1,6 +1,4 @@
-```
 <p align="center"><a href="#"><img src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/ROBOTICS.png" height="300"></a></p>
-```
 
 <h1 align="center">Cyberlions</h1>
 

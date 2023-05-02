@@ -2,7 +2,7 @@
 
 <h1 align="center">Cyberlions</h1>
 
-<p align="center">
+<p align="left">
 <a href="#"><img src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/CVERSION.png" height="25"></a>
 <a href="#"><img src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/PYTHON.png" height="25"></a>
 </p>

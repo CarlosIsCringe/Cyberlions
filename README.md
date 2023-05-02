@@ -21,3 +21,5 @@ Currently Cyberlions operates using the [C17 Coding Language](https://en.wikiped
 <a href="#"><img src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/RESOURCES.png" height="100"></a>
 <a href="#"><img src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/ABOUT.png" height="100"></a>
 </p>
+
+## Changelog

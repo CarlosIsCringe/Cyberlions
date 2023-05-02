@@ -2,7 +2,7 @@
 
 <h1 align="center">Cyberlions</h1>
 
-<img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" height="80">
+<img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png">
 
 Cyberlions is a scholar led program that offers education in Technology and Robotics. This includes porgramming, documentation and self-leadership. Our goal is to teach young scholars to run this club as a self-sutaining business that can overcome any obstacle they face.
 

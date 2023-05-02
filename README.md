@@ -2,13 +2,12 @@
 
 <h1 align="center">Cyberlions</h1>
 
+Cyberlions is a scholar led program that offers education in Technology and Robotics. This includes porgramming, documentation and self-leadership. Our goal is to teach young scholars to run this club as a self-sutaining business that can overcome any obstacle they face.
+
 <p align="left">
-Supported: 
 <a href="#"><img src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/CVERSION.png" height="25"></a>
 <a href="#"><img src="https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/PYTHON.png" height="25"></a>
 </p>
-
-Cyberlions is a scholar led program that offers education in Technology and Robotics. This includes porgramming, documentation and self-leadership. Our goal is to teach young scholars to run this club as a self-sutaining business that can overcome any obstacle they face.
 
 ## Language
 

@@ -32,3 +32,7 @@ Changes are documented in the [changelog]().
 
 - Programming can be found in [trello]().
 - Progression can be found in the [wiki]().
+
+##
+
+<p align="center">© 2023 Cyberlions - Resources by CarlosIsCringe</p>

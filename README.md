@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img src="[https://github.com/CarlosIsCringe/Cyberlions/blob/main/Branding/ROBOTICS.png](https://media.discordapp.net/attachments/1051181501355659265/1164375761893998632/Lion_Remastered.png?ex=6542fc6e&is=6530876e&hm=578d09bbb0dd2345d261923e34bc13f0b094a4da8fc7d7f0ddaf577e3836ce2e&=&width=662&height=662)" height="300"></a></p>
+<p align="center"><a href="#"><img src="cyberlions.github.io" height="300"></a></p>
 
 <h1 align="center">Cyberlions</h1>
 
